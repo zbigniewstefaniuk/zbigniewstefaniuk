@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on online chat, you can find code on my git 
+- 🔭 I’m currently working on online chat, you can find code below 
 - 🌱 I’m currently learning Python(Django and Flask), JavaScript(React)
 - 📫 How to reach me: zbyszek791@hotmail.com
