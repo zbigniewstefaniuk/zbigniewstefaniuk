@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on online chat, you can find code on my git 
+- 🌱 I’m currently learning Python(Django and Flask), JavaScript(React)
