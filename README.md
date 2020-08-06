@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zbyszek791@hotmail.com
 <p align="center">
   <img src="https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/chat-screnn.png">
-![show-of-chat](https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/chat-screnn.png)
 </p>
