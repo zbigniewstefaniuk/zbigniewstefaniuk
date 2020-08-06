@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python(Django and Flask), JavaScript(React)
 - 📫 How to reach me: zbyszek791@hotmail.com
 <p align="center">
+  <img src="https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/chat-screnn.png">
 ![show-of-chat](https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/chat-screnn.png)
 </p>
