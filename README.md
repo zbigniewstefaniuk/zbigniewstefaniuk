@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my repo</a> or <a href="https://github.com/zbigniewstefaniuk/web_app">on this site</a>
+Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my repo</a> or <a href="http://zstefaniuk.pl/">on this site</a>
 </p>
