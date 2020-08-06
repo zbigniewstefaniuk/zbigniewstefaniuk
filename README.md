@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on online chat, you can find code below 
 - 🌱 I’m currently learning Python(Django and Flask), JavaScript(React)
 - 📫 How to reach me: zbyszek791@hotmail.com
-
-  ## This is my latest project - chat app with flaskIO
+<p align="center">
+   ## This is my latest project - chat app with flaskIO 💬✔
+</p>
   
 <p align="center">
   <img width="470" height="518" src="https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/chat-screnn.png">
