@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="470" height="518" src="https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/chat-screnn.png">
 </p>
+
+<p align="center">
+Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my repo</a> or <a href="https://github.com/zbigniewstefaniuk/web_app">on this site</a>
+</p>
