@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 - 🔭 I’m currently working on online chat, you can find code below 
 - 🌱 I’m currently learning Python(Django and Flask) and JavaScript(React)
 - 📫 How to reach me: zbyszek791@hotmail.com
 <h1 align="center">
-   This is my latest project - chat app with flaskIO 💬✔
+   Chat app written with flaskIO 💬✔
 </h1>
   
 <p align="center">
