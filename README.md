@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python(Django and Flask) and JavaScript(React)
 - 📫 How to reach me: zbyszek791@hotmail.com
 <h1 align="center">
-   Chat app written with Flask-SocketIO 💬✔
+   Chat app implemented with Flask-SocketIO 💬✔
 </h1>
   
 <p align="center">
