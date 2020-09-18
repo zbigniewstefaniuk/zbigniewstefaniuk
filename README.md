@@ -40,5 +40,5 @@ Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my 
 </p>
 
 <p align="center">
-Check this project <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
+Still in Development but you can check this project <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
 </p>
