@@ -30,3 +30,15 @@ Here are some ideas to get you started:
 <p align="center">
 Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my repository</a> or <a href="http://zstefaniuk.pl/">on this site</a>
 </p>
+
+<h1 align="center">
+   Weather Forecast with current weather conditions and 5 days forecast⛅
+</h1>
+
+<p align="center">
+  <img width="470" height="518" src="https://github.com/zbigniewstefaniuk/weather_api_widget/blob/master/static/images/weatherapp.png">
+</p>
+
+<p align="center">
+Check this project <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
+</p>
