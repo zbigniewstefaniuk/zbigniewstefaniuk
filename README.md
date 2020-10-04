@@ -40,5 +40,5 @@ Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my 
 </p>
 
 <p align="center">
-Still in Development but you can check this project <a href="https://weather-cloudy9-app.herokuapp.com/">on heroku site </a><a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
+Still in Development but you can check this project <a href="https://weather-cloudy9-app.herokuapp.com/">on heroku site </a> or <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
 </p>
