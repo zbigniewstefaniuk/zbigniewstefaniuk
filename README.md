@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on online Video Chat
-- 🌱 I’m currently learning Python(Django and Flask) and JavaScript(React)
+- 🌱 I’m currently learning Python(Django and Flask) and JavaScript
 - 📫 How to reach me: zbyszek791@hotmail.com
 <h1 align="center">
    Chat app implemented using Flask-SocketIO 💬✔
