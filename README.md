@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on online Video Chat
+- 🔭 I’m currently working on small reservation app in Django
 - 🌱 I’m currently learning Python(Django and Flask) and JavaScript
 - 📫 How to reach me: zbyszek791@hotmail.com
 <h1 align="center">
