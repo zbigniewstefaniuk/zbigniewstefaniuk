@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm learning full time to become software developer !
 
 <!--
 **zbigniewstefaniuk/zbigniewstefaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on small reservation app in Django
 - 🌱 I’m currently learning Python(Django and Flask) and JavaScript(React)
 - 📫 How to reach me: zbyszek791@hotmail.com
+- ⚡ Fun fact: Playing on guitar in spare time, and doing music in Fl Studio
+
+
 <h1 align="center">
    Chat app implemented using Flask-SocketIO 💬✔
 </h1>
