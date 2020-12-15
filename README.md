@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my repository</a> or <a href="http://zstefaniuk.pl/">on this site</a>
+Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my repository</a> or <a href="http://zstefaniuk.pl/">Demo on this site</a>
 </p>
 
 <h1 align="center">
@@ -44,5 +44,5 @@ Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my 
 </p>
 
 <p align="center">
-Check this project <a href="https://weather-cloudy9-app.herokuapp.com/">on heroku site </a> or <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
+Check this app <a href="https://weather-cloudy9-app.herokuapp.com/">on heroku site </a> or <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
 </p>
