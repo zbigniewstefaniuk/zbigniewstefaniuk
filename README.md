@@ -36,7 +36,7 @@ Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my 
 </p>
 
 <h1 align="center">
-   Weather Forecast with current weather conditions and 5 days and with hours 🕔 forecast⛅
+   Weather Forecast with current weather conditions and next 5 days with hourly 🕔 forecast⛅
 </h1>
 
 <p align="center">
