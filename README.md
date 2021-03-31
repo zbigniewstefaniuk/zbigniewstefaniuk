@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on small reservation app in React
+- 🔭 I’m currently working on small reservation app in React(aside main project for client in DevsData.com)
 - 🌱 I’m currently learning JavaScript(React, React Native) and Python(Django and Flask)
 - 📫 How to reach me: zbyszek791@hotmail.com
-- ⚡ Hobbies: Playing on guitar in spare time, and doing music in Fl Studio
+- ⚡ Hobbies: Doing music in Fl Studio
 
 <br />
 
