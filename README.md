@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on small reservation app in React(aside main project for client in DevsData.com)
+- 🔭 I’m currently working on small reservation app in React(aside main work)
 - 🌱 I’m currently learning JavaScript(React Native, React)
 - 📫 How to reach me: zbyszek791@hotmail.com
 - ⚡ Hobbies: Doing music in Fl Studio
