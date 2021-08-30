@@ -48,3 +48,8 @@ Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my 
 <p align="center">
 Check this app <a href="https://weather-cloudy9-app.herokuapp.com/">on heroku site </a> or <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
 </p>
+
+<p align="center">
+  <img width="470" height="518" src="https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/next-nails.png">
+</p>
+
