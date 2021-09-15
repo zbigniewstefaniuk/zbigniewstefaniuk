@@ -1,4 +1,4 @@
-## Hi there 👋 I'm learning full time to become software developer !
+## Hi there 👋 I'm full time software developer !
 
 <!--
 **zbigniewstefaniuk/zbigniewstefaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
