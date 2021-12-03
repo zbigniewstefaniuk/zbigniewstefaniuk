@@ -49,11 +49,3 @@ Check this project <a href="https://github.com/zbigniewstefaniuk/web_app">on my 
 Check this app <a href="https://weather-cloudy9-app.herokuapp.com/">on heroku site </a> or <a href="https://github.com/zbigniewstefaniuk/weather_api_widget">on my repository</a>
 </p>
 
-<h1 align="center">
-  Booking serice app builded with NEXTJS
-</h1>
-
-<p align="center">
-  <img width="870" height="518" src="https://github.com/zbigniewstefaniuk/zbigniewstefaniuk/blob/master/next-nails.png">
-</p>
-
