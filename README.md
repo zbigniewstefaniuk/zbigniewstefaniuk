@@ -1,4 +1,4 @@
-## Hi there 👋 I'm full time software developer !
+## Hi there 👋 React, Vue, Typescript ? I'm in let's gooo !
 
 <!--
 **zbigniewstefaniuk/zbigniewstefaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on mastering all hooks and Modern Redux (redux-toolkit)
-- 🌱 I’m currently learning JavaScript(React, React Native, Modern Redux)
+- 🔭 I’m currently working in 10Clouds
+- 🌱 I’m currently learning JavaScript relaed stuff C:
 - 📫 How to reach me: zbyszek791@hotmail.com
 - ⚡ Hobbies: Doing music in Fl Studio
+
+<br /><br />
+
+
+<p align="center">Well it probably does not make sanse to leave this section here, however I'm sentimental ad I'd like to travel in time sometimes because I'm proud of my story and what I've acomplished, this is how it all started
+</p>
 
 <br />
 <h2>Tech Stack </h2>
