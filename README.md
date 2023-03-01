@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br /><br />
 
 
-<p align="center">Well it probably does not make sanse to leave this section here, however I'm sentimental ad I'd like to travel in time sometimes because I'm proud of my story and what I've acomplished, this is how it all started
+<p align="center">legacy
 </p>
 
 <br />
