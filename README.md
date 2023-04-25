@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in 10Clouds
 - 🌱 I’m currently learning TypeScript relaed stuff C:
-- 📫 How to reach me: [my linkedIn](https://www.linkedin.com/in/zbigniew-stefaniuk-a69ba618b/)
+- 📫 How to reach me: [here](https://www.linkedin.com/in/zbigniew-stefaniuk-a69ba618b/)
 - ⚡ Hobbies: Doing music in Fl Studio
 
 
