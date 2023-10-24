@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zayn</h1>
+<h1 align="center">Hi 👋 I'm Zayn</h1>
 <h3 align="center">Typescript, React, Vue, ? I'm in let's gooo !</h3>
 
 <!--
