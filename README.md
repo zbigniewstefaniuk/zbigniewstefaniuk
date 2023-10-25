@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Zayn</h1>
-<h3 align="center">Typescript, React, Vue, ? I'm in let's gooo !</h3>
+<h3 align="center">Typescript, React, Vue ? I'm in let's gooo !</h3>
 
 <!--
 **zbigniewstefaniuk/zbigniewstefaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
