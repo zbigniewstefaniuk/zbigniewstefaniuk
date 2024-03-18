@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working in 10Clouds
-- 🌱 I’m currently learning TypeScript related stuff C:
+- 🔭 I’m currently working in Deloitte Digital
+- 🌱 I’m currently learning fancy stuff 😉
 - 📫 How to reach me: [here](https://www.linkedin.com/in/zbigniew-stefaniuk-a69ba618b/)
-- ⚡ Hobbies: Doing music in Fl Studio
+- ⚡ Hobbies: remixing my favorites music in FL Studio
 
 
 
