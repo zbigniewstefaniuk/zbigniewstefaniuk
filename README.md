@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 
-
-- 🔭 I’m currently working in Deloitte Digital
-- 🌱 I’m currently learning fancy stuff 😉
+<!--
+- 🔭 I’m currently working in <check linkedin>
+- 🌱 I’m currently learning fancy stuff 😉-->
 - 📫 How to reach me: [here](https://www.linkedin.com/in/zbigniew-stefaniuk-a69ba618b/)
 - ⚡ Hobbies: remixing my favorites music in FL Studio
 
